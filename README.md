@@ -1,7 +1,7 @@
 # focal_gdm3_complete_hack
 css file to edit like previous versions in Ubuntu starting from 17.10 to 19.10 for controlling login screen background in Ubuntu 20.04
 
-Disclimer: editing the mygdm3.css file is very risky. If any errors occur. you wont be able to use the desktop.
+Disclimer: editing the .css file is very risky. If any errors occur. you wont be able to use the desktop.
 Proceed only if you know what you are going to edit.
 
 for the freedom of editing the css file like in previous versions of Ubuntu starting from 17.10 to 19.10,
