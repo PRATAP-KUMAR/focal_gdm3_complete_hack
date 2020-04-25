@@ -15,3 +15,9 @@ download the two files. `mygdm3.css` and `mygdm3.gresource`.
 4. `update-alternatives --set gdm3-theme.gresource /usr/local/share/gnome-shell/theme/mygdm3/mygdm3.gresource`
 
 now you can edit the file `/usr/local/share/gnome-shell/theme/mygdm3/mygdm3.css` as before.
+
+# Recovery from fatal errors or to go back to default theme..
+either from desktop or from tty.. run the below command with root previliges..
+
+`update-alternatives --quiet --set gdm3-theme.gresource /usr/share/gnome-shell/theme/Yaru/gnome-shell-theme.gresource` and then logout/reboot is required.
+
